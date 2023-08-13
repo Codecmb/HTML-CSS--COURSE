@@ -4,6 +4,7 @@ p{
   margin-bottom: 0;
 }
 body{
+  /* This style below will be inherited*/
   margin: o;
   padding-top: 80px;
   padding-left: 96px;
